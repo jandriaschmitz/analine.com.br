@@ -184,11 +184,11 @@ Primary use:
 [ L-Text >= 26 ]*/
 .l1-txt1 {
   font-family: Ubuntu-Bold;
-  font-size: 60px;
+  font-size: 40px;
   color: #fff;
   line-height: 1.2;
   text-transform: uppercase;
-  margin-top: 150px;
+  margin-top: 110px;
 }
 
 .l1-txt2 {
@@ -250,7 +250,7 @@ Primary use:
 
 /*---------------------------------------------*/
 .bg-g1 {
-  background: #fb5f7e;
+  background: #f599ac;
   background: -webkit-linear-gradient(bottom, #f77062, #fe5196);
   background: -o-linear-gradient(bottom, #f77062, #fe5196);
   background: -moz-linear-gradient(bottom, #f77062, #fe5196);
