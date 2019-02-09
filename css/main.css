@@ -251,7 +251,7 @@ Primary use:
 /*---------------------------------------------*/
 .bg-g1 {
   background: #f599ac;
-  background: -webkit-linear-gradient(bottom, #f599ac, #fe5196);
+  background: -webkit-linear-gradient(bottom, #f7a4b5, #f3619c);
   background: -o-linear-gradient(bottom, #f599ac, #fe5196);
   background: -moz-linear-gradient(bottom, #f599ac, #fe5196);
   background: linear-gradient(bottom, #f599ac, #fe5196);
